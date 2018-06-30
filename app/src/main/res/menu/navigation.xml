@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_accueil"
+        android:icon="@drawable/ic_insert_chart_black_24dp"
+        android:title="Accueil" />
+
+    <item
+        android:id="@+id/navigation_application"
+        android:icon="@drawable/ic_import_contacts_black_24dp"
+        android:title="Application" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/ic_textsms_black_24dp"
+        android:title="@string/title_notifications" />
+
+    <item
+        android:id="@+id/navigation_quitter"
+        android:icon="@drawable/ic_textsms_black_24dp"
+        android:title="Quitter" />
+
+</menu>
